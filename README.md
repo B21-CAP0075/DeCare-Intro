@@ -61,4 +61,5 @@ Healthcare
 Deteksi Dini - Prediction (Normal) |
 
 ## Prerequisites
-- ??
+- Android 5.0 Lolipop 
+- Internet Connection

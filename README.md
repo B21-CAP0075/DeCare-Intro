@@ -15,7 +15,7 @@ Healthcare
 
 ## Team Members
 | Student ID  | Member |  Project Role |
-| ----------- | ------ | ------------= |
+| ----------- | ------ | ------------- |
 | A3152838 | Ahmad Emir Alfatah | Android Development, Machine Learning |  
 | A1311646 | Dharma Yudistira Eka Putra | Design Application, Android Development | 
 | M0020111 | Muhammad Ayyub Abdurrahman | Machine Learning, Backend Development |

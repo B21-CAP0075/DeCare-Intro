@@ -39,3 +39,24 @@ Healthcare
 ## Our Product
 - link product nyaaaa
 
+## Screenshots Application
+|<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|:--------:|
+| Splash Screen | Halaman Beranda | Artikel |
+
+|<img src=screenshots/article_screen_onclick.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/jadwal_kegiatan_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/jadwal_kegiatan_input.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|:--------:|
+| Artikel Detail | Jadwal Kegiatan | Jadwal Kegiatan Input |
+
+|<img src=screenshots/notification_reminder.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/yoga_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/yoga_screen_on_progress.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|:--------:|
+| Notifikasi | Olahraga | Olahraga - Yoga |
+
+|<img src=screenshots/information_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/instruction_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/prediction_dementia.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|:--------:|
+| Deteksi Dini - Informasi | Deteksi Dini - Instruction | Deteksi Dini - Prediction (Dementia) |
+
+|<img src=screenshots/prediction_normal.jpeg  align="center" height="400" width="200" ></a>|
+|:--------:|
+Deteksi Dini - Prediction (Normal) |
+

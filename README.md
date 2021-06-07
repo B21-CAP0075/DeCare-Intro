@@ -10,3 +10,15 @@ Therefore, we conclude that these are our features: Login/Register, Panduan
 Aplikasi, Deteksi Dini, Jadwal Kegiatan, Olahraga, Artikel, Data Diri, Rekap
 Kegiatan, Caregiver Service, and Games.
 
+## Selected Theme
+Healthcare
+
+## Team Members
+| Student ID  | Member |  Project Role |
+| ----------- | ------ | ------------= |
+| A3152838 | Ahmad Emir Alfatah | Android Development, Machine Learning |  
+| A1311646 | Dharma Yudistira Eka Putra | Design Application, Android Development | 
+| M0020111 | Muhammad Ayyub Abdurrahman | Machine Learning, Backend Development |
+| M3152837 | Jessica Julia Paradina Siregar | Machine Learning, Design Application |
+| C0070700 | Ria Rizky Mardiana | Backend Development, Cloud Computing | 
+| C1161495 | Muhammad Ridho Anshory | Cloud Computing, Backend Development | 

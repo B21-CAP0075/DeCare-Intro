@@ -7,8 +7,7 @@ dementia or not. Not only that, DeCare will improve the patient’s quality of l
 its functionality such as daily exercise guidance, a reminder of their scheduled
 activities, articles to improve their knowledge, and progress recapitulation.
 Therefore, we conclude that these are our features: Login/Register, Panduan
-Aplikasi, Deteksi Dini, Jadwal Kegiatan, Olahraga, Artikel, Data Diri, Rekap
-Kegiatan, Caregiver Service, and Games.
+Aplikasi, Deteksi Dini, Jadwal Kegiatan, Olahraga, Artikel, Data Diri.
 
 ## Selected Theme
 Healthcare
@@ -27,3 +26,16 @@ Healthcare
 1. [DeCare-App](https://github.com/B21-CAP0075/DeCare-App)
 2. [Flask-Backend](https://github.com/B21-CAP0075/Flask-Backend)
 3. [Dementia-Classification](https://github.com/B21-CAP0075/Dementia-Classification)
+
+## Features
+- Login/Register
+- Panduan Aplikasi
+- Deteksi Dini
+- Jadwal Kegiatan
+- Olahraga
+- Artikel
+- Data Diri
+
+## Our Product
+- link product nyaaaa
+

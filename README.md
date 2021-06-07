@@ -37,10 +37,10 @@ Healthcare
 - Data Diri
 
 ## Our Product
-- link product nyaaaa
+[DeCare App](https://play.google.com/store/apps/details?id=com.bangkit.decare)
 
 ## Screenshots Application
-|<img src=DeCare-App/screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=DeCare-App/screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
+|<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
 | Splash Screen | Halaman Beranda | Artikel |
 

@@ -22,3 +22,8 @@ Healthcare
 | M3152837 | Jessica Julia Paradina Siregar | Machine Learning, Design Application |
 | C0070700 | Ria Rizky Mardiana | Backend Development, Cloud Computing | 
 | C1161495 | Muhammad Ridho Anshory | Cloud Computing, Backend Development | 
+
+## Our Project Repository
+1. [DeCare-App](https://github.com/B21-CAP0075/DeCare-App)
+2. [Flask-Backend](https://github.com/B21-CAP0075/Flask-Backend)
+3. [Dementia-Classification](https://github.com/B21-CAP0075/Dementia-Classification)

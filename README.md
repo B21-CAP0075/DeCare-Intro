@@ -1,3 +1,27 @@
+<p align="center">
+  <a href="#">
+    <img src="screenshots/decare2.jpg" alt="DeCareLogo" height="250">
+  </a>
+</p>
+<h1 align="center">DeCare (Dementia Care)</h1>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#decare-intro">DeCare-Intro</a></li>
+    <li><a href="#selected-theme">Selected Theme</a></li>
+    <li><a href="#team-members">Team Members</a>
+    <li><a href="#project-repositories">Project Repositories</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#our-product">Our Product </a>
+      <ul>
+        <li><a href="#application-preview">Application Preview</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 # DeCare-Intro
 DeCare is an Android application to support in-home caregiver to improve quality of dementia patient's life.
 DeCare can perform early detection of dementia using MMSE Screening. The results of
@@ -6,8 +30,6 @@ Learning model from Cloud to predict whether the patient is suffering from
 dementia or not. Not only that, DeCare will improve the patient’s quality of life by
 its functionality such as daily exercise guidance, a reminder of their scheduled
 activities, articles to improve their knowledge, and progress recapitulation.
-Therefore, we conclude that these are our features: Login/Register, Panduan
-Aplikasi, Deteksi Dini, Jadwal Kegiatan, Olahraga, Artikel, Data Diri.
 
 ## Selected Theme
 Healthcare
@@ -22,7 +44,7 @@ Healthcare
 | C0070700 | Ria Rizky Mardiana | Backend Development, Cloud Computing | 
 | C1161495 | Muhammad Ridho Anshory | Cloud Computing, Backend Development | 
 
-## Our Project Repository
+## Project Repositories
 1. [DeCare-App](https://github.com/B21-CAP0075/DeCare-App)
 2. [Flask-Backend](https://github.com/B21-CAP0075/Flask-Backend)
 3. [Dementia-Classification](https://github.com/B21-CAP0075/Dementia-Classification)
@@ -37,9 +59,9 @@ Healthcare
 - Data Diri
 
 ## Our Product
-[DeCare App](https://play.google.com/store/apps/details?id=com.bangkit.decare)
+- [DeCare App on Play Store](https://play.google.com/store/apps/details?id=com.bangkit.decare)  [6.3 MB]
 
-## Screenshots Application
+### Application Preview
 |<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
 | Splash Screen | Halaman Beranda | Artikel |
@@ -60,6 +82,6 @@ Healthcare
 |:--------:|
 Deteksi Dini - Prediction (Normal) |
 
-## Prerequisites
+### Prerequisites
 - Android 5.0 Lolipop 
 - Internet Connection

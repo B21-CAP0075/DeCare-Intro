@@ -77,7 +77,7 @@ Healthcare
 
 |<img src=screenshots/information_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/instruction_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/prediction_dementia.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
-| Deteksi Dini - Informasi | Deteksi Dini - Instruction | Deteksi Dini - Prediction (Dementia) |
+| Deteksi Dini - Informasi | Deteksi Dini - Instruction | Deteksi Dini - Prediction |
 
 |<img src=screenshots/prediction_normal.jpeg  align="center" height="400" width="200" ></a>|
 |:--------:|

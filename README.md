@@ -15,7 +15,7 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#our-product">Our Product </a>
       <ul>
-        <li><a href="#application-preview">Application Preview</a></li>
+        <li><a href="#application-view">Application View</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
@@ -50,6 +50,7 @@ Healthcare
 3. [Dementia-Classification](https://github.com/B21-CAP0075/Dementia-Classification)
 
 ## Features
+<b>DeCare provided features : </b>
 - Login/Register
 - Panduan Aplikasi
 - Deteksi Dini
@@ -61,7 +62,7 @@ Healthcare
 ## Our Product
 - [DeCare App on Play Store](https://play.google.com/store/apps/details?id=com.bangkit.decare)  [6.3 MB]
 
-### Application Preview
+### Application View
 |<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
 | Splash Screen | Halaman Beranda | Artikel |

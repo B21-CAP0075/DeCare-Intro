@@ -64,25 +64,15 @@ Healthcare
 
 ### Application View
 <p align="center">
-  |<img src=screenshots/splash_screen.jpeg height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg height="400" width="200" ></a>|
-|:-----------:|:--------:|:--------:|
-| Splash Screen | Halaman Beranda | Artikel |
+  <img src=screenshots/splash_screen.jpeg height="400" width="200" ></a><img src=screenshots/home_screen.jpeg height="400" width="200" ></a><img src=screenshots/article_screen.jpeg height="400" width="200" ></a>
 
-|<img src=screenshots/article_screen_onclick.jpeg height="400" width="200" ></a> |<img src=screenshots/jadwal_kegiatan_screen.jpeg height="400" width="200" ></a>|<img src=screenshots/jadwal_kegiatan_input.jpeg height="400" width="200" ></a>|
-|:-----------:|:--------:|:--------:|
-| Artikel Detail | Jadwal Kegiatan | Jadwal Kegiatan Input |
+<img src=screenshots/article_screen_onclick.jpeg height="400" width="200" ></a><img src=screenshots/jadwal_kegiatan_screen.jpeg height="400" width="200" ></a><img src=screenshots/jadwal_kegiatan_input.jpeg height="400" width="200" ></a>
 
-|<img src=screenshots/notification_reminder.jpeg height="400" width="200" ></a> |<img src=screenshots/yoga_screen.jpeg height="400" width="200" ></a>|<img src=screenshots/yoga_screen_on_progress.jpeg height="400" width="200" ></a>|
-|:-----------:|:--------:|:--------:|
-| Notifikasi | Olahraga | Olahraga - Yoga |
+<img src=screenshots/notification_reminder.jpeg height="400" width="200" ></a><img src=screenshots/yoga_screen.jpeg height="400" width="200" ></a><img src=screenshots/yoga_screen_on_progress.jpeg height="400" width="200" ></a>
 
-|<img src=screenshots/information_screen.jpeg height="400" width="200" ></a> |<img src=screenshots/instruction_screen.jpeg  height="400" width="200" ></a>|<img src=screenshots/prediction_dementia.jpeg height="400" width="200" ></a>|
-|:-----------:|:--------:|:--------:|
-| Deteksi Dini - Informasi | Deteksi Dini - Instruction | Deteksi Dini - Prediction (Dementia) |
+<img src=screenshots/information_screen.jpeg height="400" width="200" ></a><img src=screenshots/instruction_screen.jpeg  height="400" width="200" ></a><img src=screenshots/prediction_dementia.jpeg height="400" width="200" ></a>
 
-|<img src=screenshots/prediction_normal.jpeg height="400" width="200" ></a>|
-|:--------:|
-Deteksi Dini - Prediction (Normal) |
+<img src=screenshots/prediction_normal.jpeg height="400" width="200" ></a>
 </p>
 
 ### Prerequisites

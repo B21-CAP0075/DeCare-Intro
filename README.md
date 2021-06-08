@@ -63,7 +63,8 @@ Healthcare
 - [DeCare App on Play Store](https://play.google.com/store/apps/details?id=com.bangkit.decare)  [6.3 MB]
 
 ### Application View
-|<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
+<p align="center">
+  |<img src=screenshots/splash_screen.jpeg align="center" height="400" width="200" ></a> |<img src=screenshots/home_screen.jpeg  align="center" height="400" width="200" ></a>|<img src=screenshots/article_screen.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
 | Splash Screen | Halaman Beranda | Artikel |
 
@@ -82,6 +83,7 @@ Healthcare
 |<img src=screenshots/prediction_normal.jpeg  align="center" height="400" width="200" ></a>|
 |:--------:|
 Deteksi Dini - Prediction (Normal) |
+</p>
 
 ### Prerequisites
 - Android 5.0 Lolipop 
